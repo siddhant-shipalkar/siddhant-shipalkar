@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Siddhant Shipalkar
 
-<!--
-**siddhant-shipalkar/siddhant-shipalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a **Web Developer** skilled in:
 
-Here are some ideas to get you started:
+- 🔹 Angular
+- 🔹 React
+- 🔹 JavaScript
+- 🔹 CSS & Tailwind CSS
+- 🔹 AWS Cloud
+- 🔹 DevOps Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I enjoy building **responsive, creative, and high-performance web applications**, and I’m always eager to learn new technologies.
+
+---
+
+## 🔥 Projects I've Worked On:
+
+- ✨ Whisper Starlight Webpage
+- ✨ Travel App
+- ✨ E-commerce Website
+- ✨ Food Delivery App
+- ✨ Hotel Management App
+
+---
+
+## 📫 Contact Me:
+
+- 📧 Email: **shipalkarsiddhant@gmail.com**
+---
